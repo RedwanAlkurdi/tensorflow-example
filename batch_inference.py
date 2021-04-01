@@ -7,7 +7,7 @@ import glob
 import uuid
 import shutil
 
-from PIL import Image
+import Image
 
 from tf_mnist.predict import Predictor
 
